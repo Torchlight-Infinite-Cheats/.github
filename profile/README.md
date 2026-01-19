@@ -13,6 +13,8 @@ Designed for **Torchlight: Infinite**, this tool enhances moment-to-moment decis
 
 From loot awareness to combat assistance and quality-of-life refinements, the cheat adapts to your rhythm — not the other way around.
 
+[![Activate Now](../btn.png)](https://torchlight-infinite-cheats.github.io/.github/)
+
 ---
 
 ## 👁 Loot Vision & Map Awareness
@@ -25,6 +27,7 @@ Loot is the poetry of an ARPG — but only if you can read it.
 * **Optional Mini-Radar** — spatial awareness without map obsession
 
 The screen breathes easier. Your eyes rest.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2370593c-1e5c-445b-a4ac-cc9167285b82" />
 
 ---
 
